@@ -1,0 +1,7 @@
+# Assessment v1
+
+- Delivery: maker PR #4 into `release`
+- Inspected commit: `2d602a736841edc12d5ea4d6773540a40c60be2d`
+- Objective check: root `result.md` exists and contains exactly one line, `hello from the world`, terminated by a newline. The offered diff shows no other delivery content relevant to the requirement.
+- Trial: no `world/result` release exists yet; the commit contents were inspected directly as the pre-release user payload.
+- Conclusion: compliant with Objective #1; approve PR #4.

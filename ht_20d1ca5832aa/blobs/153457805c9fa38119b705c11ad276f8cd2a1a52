@@ -1,0 +1,5 @@
+# Who owns each path of the delivery, from the work assignment (assignment.json) of the world
+# this one continues. Change it by a pull request; see the instruction.
+\.forgejo/CODEOWNERS @organizer
+delivery\.md @maker
+result\.md @maker

@@ -1,0 +1,13 @@
+# Assessment: maker#4, head 41589ca5da78f94ee8de6c0a7121d7a779ed2075
+
+Inspected: pull request `world/maker#4` (Version 1), head `main` at 41589ca, into `release`.
+
+Checked:
+- The commit changes one file, `result.md`, added with one line.
+- `git show 41589ca:result.md` gives `hello from the world` followed by a newline, which is the line the objective asks for.
+- The commit status `hutian/delivery` at 41589ca is `success` ("the delivery holds what the world requires").
+- No other review on the pull request.
+
+Not yet done: trial of the released version. No release of `world/result` exists at this point; I will use it from `world/result` once published.
+
+Conclusion: the version is what the objective asks for. Approving pull request maker#4.

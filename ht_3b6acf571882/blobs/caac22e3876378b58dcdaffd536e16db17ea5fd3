@@ -1,0 +1,28 @@
+# Brief
+
+## The input (objective `organizer#1`, quoted)
+
+> A small check of this world. Keep every step short.
+>
+> Deliver `result.md` at the root of the delivery holding one line: `hello from the world`. The delivery is done when it is reviewed and released.
+
+## Focus and priorities for this round
+
+1. `result.md` at the root of the delivery, containing exactly one line: `hello from the world`.
+2. The delivery is accepted when `assessor` approves the pull request into `release` (then `final`) of `world/maker` for that file.
+3. Keep each step short; no other file is required.
+
+## Standard
+
+- `result.md` exists at the delivery root; its single line is `hello from the world`.
+- Each version offered to `release` is approved by `assessor` before merge.
+
+## Division of the work
+
+- `result.md` is produced by `maker`, the function that makes the delivery.
+- `.forgejo/CODEOWNERS` is owned by `organizer` (this position).
+
+## Not established
+
+- Whether the world requires any other path in the delivery; the input names none.
+- The wiki of `world/organizer` does not exist yet (its API returns 404), so this brief lives here instead.

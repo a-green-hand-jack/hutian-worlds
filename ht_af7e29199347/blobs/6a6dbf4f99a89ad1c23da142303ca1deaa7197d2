@@ -1,0 +1,3 @@
+\.forgejo/CODEOWNERS @organizer
+delivery\.md @maker
+notes/.* @organizer
